@@ -1,0 +1,17 @@
+
+Welcome to María Estrella's Developer Hub
+Passionate About React & Tailwind CSS
+
+Hi, I'm María Estrella, a full-stack developer specializing in JavaScript, React, Node.js, and Tailwind CSS. I build responsive, modern web applications with a focus on efficiency and user experience. Check out my projects to see how I leverage these technologies to deliver sleek, mobile-friendly solutions.
+
+Why Tailwind CSS?
+Tailwind is the fastest-growing utility-first CSS framework, perfect for rapid development. With its mobile-first approach and developer-friendly design, it has transformed how I build applications. Once you try it, you won't want to use anything else.
+
+What You’ll Find Here
+Portfolio: Explore projects showcasing my expertise in JavaScript and full-stack development.
+No Custom CSS: Clean code with Tailwind’s advanced class extraction.
+Mobile-First Designs: Apps optimized for all devices.
+Get Started
+Sign up to download a free guide on Tailwind CSS and explore my journey as a software developer.
+
+Copyright © 2024 María Estrella
